@@ -1,0 +1,11 @@
+### Test 1: Red
+GET http://localhost:3000/hex-to-rgb?hex=FF0000
+
+### Test 2: Green
+GET http://localhost:3000/hex-to-rgb?hex=00FF00
+
+### Test 3: Blue
+GET http://localhost:3000/hex-to-rgb?hex=0000FF
+
+### Test 4: Invalid
+GET http://localhost:3000/hex-to-rgb?hex=ZZZZZZ
