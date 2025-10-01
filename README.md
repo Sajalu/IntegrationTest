@@ -54,6 +54,3 @@ Open test.http in your editor.
 Send the requests to test the API locally.
 
 
-<img width="1919" height="1017" alt="Screenshot 2025-10-01 133943" src="https://github.com/user-attachments/assets/57357c34-6e23-4de9-b7b1-4604de8171f9" />
-<img width="1917" height="1005" alt="Screenshot 2025-10-01 133957" src="https://github.com/user-attachments/assets/80779db3-bf23-4186-be63-a381dbc4868a" />
-<img width="1908" height="1018" alt="Screenshot 2025-10-01 134108" src="https://github.com/user-attachments/assets/109225e4-fd1f-4e22-8114-b976d86fa617" />
